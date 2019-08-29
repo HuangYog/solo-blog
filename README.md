@@ -10,8 +10,8 @@ HuangYog 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://blog.mailangyun.cn/my-github-repos)
-* [世界，你好！](http://blog.mailangyun.cn/hello-solo)
+* [我在 GitHub 上的开源项目](https://blog.mailangyun.cn/my-github-repos)
+* [世界，你好！](https://blog.mailangyun.cn/hello-solo)
 
 
 
